@@ -1,3 +1,3 @@
 ### Hexo Blog
 
-[My blog](glennzhang.com)
+[My blog](http://glennzhang.com)
