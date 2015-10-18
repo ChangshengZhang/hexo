@@ -59,7 +59,7 @@ toc: true
 
 
 
-## WORKING EXPERIENCE
+## Working Experience
 
 ###  National Education Investment Fund Management co., LTD, Beijing
 
@@ -86,7 +86,7 @@ More than two years' investment experience in A-Share market and Forex market.
 ### Programming Skills
 Solid expertise on C, C++, Python, Matlab, R, Bash and Latex.
 
-## LEADSHIP & AWARDS
+## Leadship & Awards
 
 + "Tsinghua --Texas Instruments" Future Robotics Club, **Team Leader**  (*Jun. 2014 - Jun. 2015*) 
 
