@@ -1,6 +1,6 @@
 title: About Me
 categories: MFE
-tag: CV
+tag: Resume
 toc: true
 ---
 
@@ -105,4 +105,4 @@ Solid expertise on C, C++, Python, Matlab, R, Bash and Latex.
 
 + Phone:  86-188-0011-1906
 
-+ Email:  zhangcsxx at gmail dot com
++ Email:  cc-zhang12@mails.tsinghua.edu.cn
